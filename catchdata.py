@@ -228,7 +228,7 @@ web=superstartload('http://passport2.chaoxing.com/login?fid=&refer=http://i.mooc
 command=input()
 todyroot=['1.7','2.10','3.10','4.5','5.7','6.5','7.9','8.3']
 if command == 'rush':
-    web.loadweb_nocheckcode('201716010116','q1972821')
+    web.loadweb_nocheckcode('201816010116','q1972841')
     input()
     web.savecookies()
     web.saveweb('课程名称')
